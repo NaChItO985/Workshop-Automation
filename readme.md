@@ -96,15 +96,16 @@
   - To solve this issue you need to go to the "AmazonAddItemToCart.java" and "AmazonReduceItemFromCart.java" file and uncomment the lines that appears at the moment. If you need to validate the values with decimal point uncomment the following lines.
 
     ```sh
-    cartPageWD.calculatePrice();
-    Assert.assertTrue(cartPageWD.calculatePrice());
+    > cartPage.calculatePrice();
+    > Assert.assertTrue(cartPage.calculatePrice());
     ```
 
 - If you need to validate the prices without Decimals dot uncomment the following lines:
 
     ```sh
-    > cartPage.calculatePrice();
-    > Assert.assertTrue(cartPage.calculatePrice());
+    
+    > cartPageWD.calculatePrice();
+    > Assert.assertTrue(cartPageWD.calculatePrice());
     ```
 
 - Sometimes when you are executing the test cases the page loaded is different to actual page of amazon, in that case you need to reexecute the project. You can do that pressing "Ctrl + C" and "y" and finish with "Enter" button and after that you need to write the step 2 of the execution.
