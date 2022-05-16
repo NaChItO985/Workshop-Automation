@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 15 19:52:35 COT 2022","Sun May 15 19:52:54 COT 2022","18706","","Modify the quantity of the product to buy of the amazon cart","","Modify the quantity of the product to buy of the amazon cart","Reduce the quantity in Cart","Reduce the quantity in Cart",""
+"passed","Sun May 15 19:52:54 COT 2022","Sun May 15 19:53:02 COT 2022","7911","","Amazon category feature","","Amazon category feature","Search hats for men category","Search hats for men category",""
+"passed","Sun May 15 19:52:19 COT 2022","Sun May 15 19:52:35 COT 2022","16444","","Adding a product to buy to the amazon cart","","Adding a product to buy to the amazon cart","Add the first hat item to the Cart","Add the first hat item to the Cart",""

@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Adding a product to buy to the amazon cart",
+    "children" : [ {
+      "name" : "Add the first hat item to the Cart",
+      "uid" : "bbebfbda8b232143",
+      "parentUid" : "847ba1e5ff45cd729a8fa4fb73ce68e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652662339193,
+        "stop" : 1652662355637,
+        "duration" : 16444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "847ba1e5ff45cd729a8fa4fb73ce68e7"
+  }, {
+    "name" : "Modify the quantity of the product to buy of the amazon cart",
+    "children" : [ {
+      "name" : "Reduce the quantity in Cart",
+      "uid" : "954ade36f34add65",
+      "parentUid" : "eaf0febbbacf2881138bdb2f35aa9bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652662355688,
+        "stop" : 1652662374394,
+        "duration" : 18706
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eaf0febbbacf2881138bdb2f35aa9bc6"
+  }, {
+    "name" : "Amazon category feature",
+    "children" : [ {
+      "name" : "Search hats for men category",
+      "uid" : "1f7df23bf75066ae",
+      "parentUid" : "f695ff24c46fd48d7d0c2076fd5182bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652662374398,
+        "stop" : 1652662382309,
+        "duration" : 7911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f695ff24c46fd48d7d0c2076fd5182bd"
+  } ]
+}

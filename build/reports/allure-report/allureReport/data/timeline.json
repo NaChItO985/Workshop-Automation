@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Nishi",
+    "children" : [ {
+      "name" : "33588@Nishi.Test worker(1)",
+      "children" : [ {
+        "name" : "Reduce the quantity in Cart",
+        "uid" : "954ade36f34add65",
+        "parentUid" : "7d4603df654e920111fbf4d4ef9b7cb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652662355688,
+          "stop" : 1652662374394,
+          "duration" : 18706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search hats for men category",
+        "uid" : "1f7df23bf75066ae",
+        "parentUid" : "7d4603df654e920111fbf4d4ef9b7cb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652662374398,
+          "stop" : 1652662382309,
+          "duration" : 7911
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add the first hat item to the Cart",
+        "uid" : "bbebfbda8b232143",
+        "parentUid" : "7d4603df654e920111fbf4d4ef9b7cb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652662339193,
+          "stop" : 1652662355637,
+          "duration" : 16444
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d4603df654e920111fbf4d4ef9b7cb9"
+    } ],
+    "uid" : "72e6ed94f281211e7f346a679167951f"
+  } ]
+}

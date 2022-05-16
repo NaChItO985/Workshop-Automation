@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id 'io.qameta.allure' version '2.9.6'
+}
+
+group 'WorkshopAutomation'
+
+version '1.0-Snapshot'
+
+sourceCompatibility = 15
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    
+    // Selenium Java
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.1.4'
+
+    // Cucumber Java
+    implementation group: 'io.cucumber', name: 'cucumber-java', version: '7.3.4'
+
+    // Cucumber-JUnit
+    testImplementation group: 'io.cucumber', name: 'cucumber-junit', version: '7.3.4'
+    
+    // Allure-Junit
+    testImplementation group: 'io.qameta.allure', name: 'allure-junit4', version: '2.17.3'
+}
+
+configurations {
+   testCompile
+}
+
+allure {
+        version = '2.17.3'
+     }
+

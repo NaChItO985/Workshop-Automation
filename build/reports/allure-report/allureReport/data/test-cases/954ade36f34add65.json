@@ -1,0 +1,60 @@
+{
+  "uid" : "954ade36f34add65",
+  "name" : "Reduce the quantity in Cart",
+  "fullName" : "Modify the quantity of the product to buy of the amazon cart.Reduce the quantity in Cart",
+  "historyId" : "62a14b3d9c798d776d687b5fbc754d88",
+  "time" : {
+    "start" : 1652662355688,
+    "stop" : 1652662374394,
+    "duration" : 18706
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Modify the quantity of the product to buy of the amazon cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Reduce the quantity in Cart"
+  }, {
+    "name" : "suite",
+    "value" : "Modify the quantity of the product to buy of the amazon cart"
+  }, {
+    "name" : "host",
+    "value" : "Nishi"
+  }, {
+    "name" : "thread",
+    "value" : "33588@Nishi.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "954ade36f34add65.json",
+  "parameterValues" : [ ]
+}

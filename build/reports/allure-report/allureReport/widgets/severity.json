@@ -1,0 +1,31 @@
+[ {
+  "uid" : "1f7df23bf75066ae",
+  "name" : "Search hats for men category",
+  "time" : {
+    "start" : 1652662374398,
+    "stop" : 1652662382309,
+    "duration" : 7911
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbebfbda8b232143",
+  "name" : "Add the first hat item to the Cart",
+  "time" : {
+    "start" : 1652662339193,
+    "stop" : 1652662355637,
+    "duration" : 16444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "954ade36f34add65",
+  "name" : "Reduce the quantity in Cart",
+  "time" : {
+    "start" : 1652662355688,
+    "stop" : 1652662374394,
+    "duration" : 18706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
